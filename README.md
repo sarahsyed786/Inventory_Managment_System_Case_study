@@ -14,7 +14,7 @@ This project is a basic implementation of the case study to demonstrate my solut
 
 ## 🔧 Features
 
-- ✅ Add, update, and delete products,stores, and inventory
+- ✅ Add, and update products,stores, and inventory
 - 📊 View inventory with real-time data
 - 🧾 RESTful API integration
 - 💾 Connected with PostgreSQL for data persistence
@@ -23,7 +23,7 @@ This project is a basic implementation of the case study to demonstrate my solut
 
 ## 🛠️ Tech Stack
 
-- **Backend:** Java, Spring Boot, Spring Security, REST API
+- **Backend:** Java, Spring Boot, REST API
 - **Database:** PostgreSQL
 - **Tools:** Postman, Git, IntelliJ
 

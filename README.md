@@ -7,7 +7,14 @@ This project is a basic implementation of the case study to demonstrate my solut
 
 ## 🖼️ Demo
 
-![Screenshot 2025-04-07 225238](https://github.com/user-attachments/assets/159c4c39-1521-4ca6-86ee-d27aa175d090)
+![Screenshot 2025-04-07 225859](https://github.com/user-attachments/assets/3e63f692-6564-4223-bbd2-7368c1b9325c)
+![Screenshot 2025-04-07 225826](https://github.com/user-attachments/assets/c4595fd8-36cf-4a40-9518-9c68fd98adb2)
+![Screenshot 2025-04-07 225325](https://github.com/user-attachments/assets/046709f0-87b4-4ada-9c37-d14f1bd6927f)
+![Screenshot 2025-04-07 225238](https://github.com/user-attachments/assets/fe91fa7c-6a91-4135-847b-7024918b5834)
+
+
+
+
 
 ---
 
@@ -37,6 +44,19 @@ This project is a basic implementation of the case study to demonstrate my solut
 - PostgreSQL installed and running
 - Maven
 
+---
 
+### Folder Structure
 
+/src
+  └── main
+      ├── java
+      │   └── com.bazaarTech.inventoryManagementSystem
+      │       ├── controller
+      │       ├── model
+      │       ├── repository
+      │       ├── service
+      │    
+      └── resources
+          └── application.properties
 

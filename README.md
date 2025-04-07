@@ -51,7 +51,7 @@ This project is a basic implementation of the case study to demonstrate my solut
 /src
   └── main
       ├── java
-      │   └── com.bazaarTech.inventoryManagementSystem
+      │   └── com.inventoryManagementSystem
       │       ├── controller
       │       ├── model
       │       ├── repository

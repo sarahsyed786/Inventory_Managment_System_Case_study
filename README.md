@@ -21,7 +21,7 @@ This project is a basic implementation of the case study to demonstrate my solut
 
 ## 🔧 Features
 
-- ✅ Add, and update products,stores, and inventory
+- ✅ Add, update, and retrieve products,stores, and inventory
 - 📊 View inventory with real-time data
 - 🧾 RESTful API integration
 - 💾 Connected with PostgreSQL for data persistence

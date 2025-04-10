@@ -60,3 +60,8 @@ This project is a basic implementation of the case study to demonstrate my solut
       └── resources
           └── application.properties
 
+## Future Implementation 
+
+JWT Token Based Authentication
+Rate Limting
+
